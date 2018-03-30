@@ -67,8 +67,7 @@
                                 <username>${username}</username>
                                 <password>${password}</password>
                                 <excludePatterns>*-tests.jar</excludePatterns>
-                                <repoKey>jenkins-release</repoKey>
-                                <snapshotRepoKey>libs-snapshot-local</snapshotRepoKey>
+                                
                             </publisher>
                             <buildInfo>
                                 <buildName>plugin-demo</buildName>
